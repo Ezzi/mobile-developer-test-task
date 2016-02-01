@@ -46,3 +46,5 @@ Attachments
 
 шлейф - https://www.dropbox.com/s/hqnk5je219gd0dm/circle_blur_2.png?dl=0
 фон - https://www.dropbox.com/s/kx04b3cjossgeg6/bg_1920x1080.jpg?dl=0
+
+*Обновлено 1 февраля 2016*
