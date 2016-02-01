@@ -27,9 +27,10 @@ PNG-шарик для шлейфа и картинка для фона в при
 
 Отправить POST-запрос на http://line.ezzi.com/api/hr/android
 с JSON BODY:
-{
-     “email” : “ваш_email"
-}
+
+    {
+    	“email” : “ваш_email"
+    }
 
 Вам придет в ответ JSON. Пример:
 
