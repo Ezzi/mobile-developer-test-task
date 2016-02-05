@@ -25,7 +25,7 @@ PNG-шарик для шлейфа и картинка для фона в при
 
 **Задача №3 - Сетевой запрос**
 
-Отправить POST-запрос на http://line.ezzi.com/api/hr/android
+Отправить POST-запрос на http://line.ezzi.com/api/hr/v1/android
 с JSON BODY:
 
     {
